@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="1" name="graphqlproxy">
+    <Basepaths>/graphqlproxy</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1525695004012</CreatedAt>
+    <CreatedBy>s.natarajan@devon.nl</CreatedBy>
+    <Description></Description>
+    <DisplayName>graphqlproxy</DisplayName>
+    <LastModifiedAt>1526032138346</LastModifiedAt>
+    <LastModifiedBy>s.natarajan@devon.nl</LastModifiedBy>
+    <ManifestVersion>SHA-512:a35a5bfd17e487168d8f150175ed0d057e56e181e67500a6e5b611fb6af86ac9b513640f4eb4e373a0608eb301ce1b1d222bf00e3a69f52de4a76b2c0610c210</ManifestVersion>
+    <Policies>
+        <Policy>Assign-Message-1</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+        <ProxyEndpoint>newpath</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>TargetEndpoint-1</TargetEndpoint>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>
